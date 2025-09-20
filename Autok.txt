@@ -1,0 +1,35 @@
+ABC-123	Audi	Fehér	1946	1 200 000,00	Vincs Eszter
+BIT-333	Lada	Kék	2001	1 250 000,00	ORFK
+BIT-345	Lada	Fehér	2003	3 200 000,00	ORFK
+BIT-346	Lada	Piros	2003	3 100 000,00	ORFK
+BKV-123	Skoda	Piros	2002	3 400 000,00	BKV
+BKV-124	Skoda	Piros	1997	500 000,00	BKV
+BKV-129	Skoda	Piros	1999	2 000 000,00	BKV
+BKV-201	Opel	Piros	2002	230 000,00	BKV
+BOND-55	Opel	Piros	1963	230 000,00	Luc Erna
+BOT-347	Opel	Fehér	1998	1 200 000,00	ORFK
+BUU-202	Lada	Kék	2002	1 200 000,00	ORFK
+CUC-888	Suzuki	Kék	2003	2 000 000,00	Liaváry Adél
+CSIN-95	Suzuki	Fehér	1912	567 000,00	Mahurincs Mónika
+GGG-333	Opel	Fehér	1995	120 000,00	Boda Gizella
+HAJ-001	Audi	Piros	1963	80 000,00	Hajanincs Bódog
+HOO-001	Lada	Fehér	2001	140 000,00	Hó Virág
+HUJ-777	Lada	Piros	1954	230 000,00	BKV
+KARA-2	Suzuki	Kék	1958	120 000,00	Karam Ella
+KIUT-01	Lada	Kék	1967	240 000,00	ORFK
+KIUT-02	Lada	Kék	1967	244 000,00	ORFK
+KUN-888	Audi	Fehér	2000	4 800 000,00	Karap Pál
+LAPOS-1	Opel	Kék	1998	2 300 000,00	Lapos Elemér
+LAPOS-2	Suzuki	Piros	1976	890 000,00	Olcsó Lujza
+NEA-111	Audi	Kék	1901	10 000 000,00	Neandervölgyi Pál
+RACS-34	Audi	Fehér	1967	8 900 000,00	Mekk Elek
+SKL-345	Opel	Kék	1997	3 500 000,00	Skara Pál
+SZL-832	Opel	Piros	1976	341 200,00	Szemte Lenke
+UJA-235	Lada	Kék	2001	1 000 000,00	ORFK
+VIC-266	Suzuki	Kék	1952	320 000,00	Tekerna Nóra
+VOL-287	Audi	Fehér	1988	120 000,00	Lenkei Imre
+WIN-200	Opel	Kék	2000	1 000 000,00	Kala Pál
+WIN-995	Suzuki	Kék	1995	1 000 000,00	Hidegvölgyi Lilla
+WIN-998	Audi	Kék	1998	1 000 000,00	Csocsó Csaba
+ZIU-876	Skoda	Fehér	2003	2 800 000,00	Júliusi Anna
+ZSU-344	Opel	Piros	1988	340 000,00	Kincses Bea

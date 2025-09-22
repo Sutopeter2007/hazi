@@ -1,22 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace autokHadarM
+namespace autok
 {
-    class Auto
-    {
-        public string Rendszam;
-        public string Tipus;
-        public string Szin;
-        public int Evjarat;
-        public int Ar;
-        public string Hasznalo;
-    }
-
     class Program
     {
         static void Main(string[] args)
@@ -30,15 +17,14 @@ namespace autokHadarM
                 foreach (var sor in sorok)
                 {
                     string[] adatok = sor.Split('\t');
-                    Auto auto = new Auto
-                    {
-                        Rendszam = adatok[0],
-                        Tipus = adatok[1],
-                        Szin = adatok[2],
-                        Evjarat = Convert.ToInt32(adatok[3]),
-                        Ar = Convert.ToInt32(adatok[4]),
-                        Hasznalo = adatok[5]
-                    };
+                    Auto auto = new Auto(
+                        adatok[0],
+                        adatok[1],
+                        adatok[2],
+                        Convert.ToInt32(adatok[3]),
+                        Convert.ToInt32(adatok[4]),
+                        adatok[5]
+                    );
                     autok.Add(auto);
                 }
 
